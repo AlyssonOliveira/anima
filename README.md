@@ -1,2 +1,2 @@
 # anima
-Animações com Vpython
+Animações didáticas com VPython
